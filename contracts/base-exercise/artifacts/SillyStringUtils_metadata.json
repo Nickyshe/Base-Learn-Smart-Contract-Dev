@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.28+commit.7893614a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/base-exercise/import-flattened-exercise.sol": "SillyStringUtils"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/base-exercise/import-flattened-exercise.sol": {
+			"keccak256": "0x838cc7edaf554133fbab8df06a08410ab84a71d47bfcf20c7ea65525461aeba0",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://89eccfd289e0231aef0665e312f62d0a76c994ed4287e3afe17f6d366bca5bce",
+				"dweb:/ipfs/QmUZU6Nr49a7kYbLKXC6gU215thyvv5sKPL4syDcfzH65Y"
+			]
+		}
+	},
+	"version": 1
+}
